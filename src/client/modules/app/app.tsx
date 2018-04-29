@@ -24,7 +24,7 @@ export const App: React.SFC<IAppProps> = (props) => {
                   <div className="application-wrapper">
                      <div className="header">
                         <Link to="/">
-                           <h1>Express-TS-Sass-Starter</h1>
+                           <h1>August</h1>
                         </Link>
                         <nav>
                            <Link to="/projects">
